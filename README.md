@@ -20,6 +20,14 @@ Now I'm exploring **AI engineering and agentic systems**, bringing the same engi
 
 > I learn by building, breaking, and rebuilding things until they work.
 
+## 🏢 At Lowe's
+
+I work across application development and production infrastructure:
+
+- **Session replay at scale:** customised, deployed, and operate an in-house build of [OpenReplay](https://github.com/openreplay/openreplay), scaling it from a single session to **3M+ sessions per day** on Kubernetes, Kafka, and ClickHouse.
+- **Chaos engineering:** built tooling to deliberately break production-like systems and prove they recover.
+- **AI and developer tooling:** building agent orchestration, conversational BI features, and MCP integrations.
+
 ## 🛠️ What I'm building
 
 | Project | What it is | Stack |
@@ -42,6 +50,7 @@ Now I'm exploring **AI engineering and agentic systems**, bringing the same engi
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" alt="MCP"/>
