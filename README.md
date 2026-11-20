@@ -20,13 +20,15 @@ Now I'm exploring **AI engineering and agentic systems**, bringing the same engi
 
 > I learn by building, breaking, and rebuilding things until they work.
 
-## 🏢 At Lowe's
+## 💼 Experience
 
-I work across application development and production infrastructure:
+**Lowe's:** I work across application development and production infrastructure:
 
 - **Session replay at scale:** customised, deployed, and operate an in-house build of [OpenReplay](https://github.com/openreplay/openreplay), scaling it from a single session to **3M+ sessions per day** on Kubernetes, Kafka, and ClickHouse.
 - **Chaos engineering:** built tooling to deliberately break production-like systems and prove they recover.
 - **AI and developer tooling:** building agent orchestration, conversational BI features, and MCP integrations.
+
+**Previously at TCS**, working with **American Express**: built automation platforms that automated a range of internal systems and HR applications.
 
 ## 🛠️ What I'm building
 
